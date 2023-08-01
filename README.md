@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I created this Github to show my online course work.
 <!--
 **kenneth-holstad/kenneth-holstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
