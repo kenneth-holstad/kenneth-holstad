@@ -2,7 +2,7 @@
 
 Data professional focused on data analytics and data science, with a background in
 data integration, migration, and large-scale SQL work. Currently a graduate student
-focusing mainly in data analytics, statistics, machine learning, and AI.
+specializing in data analytics, statistics, machine learning, and AI.
 
 ## What I'm working on
 - **[ml-from-scratch](https://github.com/kenneth-holstad/ml-from-scratch)**: ML algorithms
