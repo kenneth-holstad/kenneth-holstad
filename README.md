@@ -15,3 +15,4 @@ Python · SQL · R · scikit-learn · PyTorch · TensorFlow · Hugging Face · T
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/kenneth-holstad/)
+[Email](mailto:kenneth.holstad@gmail.com)
