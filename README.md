@@ -1,7 +1,7 @@
 # Kenneth Holstad
 
 Data professional focused on data analytics and data science, with a background in
-data integration, migration, and large-scale SQL work. Currently a graduate student
+large-scale data integration, migration, and SQL work. Currently a graduate student
 specializing in statistics, machine learning, and AI.
 
 ## What I'm working on
